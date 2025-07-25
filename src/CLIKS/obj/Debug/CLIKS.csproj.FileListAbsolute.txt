@@ -1,0 +1,33 @@
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\bin\Debug\CLIKS.exe.config
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\bin\Debug\CLIKS.exe
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\bin\Debug\CLIKS.pdb
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.csprojAssemblyReference.cache
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.Form1.resources
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.Properties.Resources.resources
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.GenerateResource.cache
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.CoreCompileInputs.cache
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.exe
+C:\Users\1111\Source\Repos\CLIKS\CLIKS\obj\Debug\CLIKS.pdb
+C:\Users\1111\Desktop\CLIKS\CLIKS\bin\Debug\CLIKS.exe.config
+C:\Users\1111\Desktop\CLIKS\CLIKS\bin\Debug\CLIKS.exe
+C:\Users\1111\Desktop\CLIKS\CLIKS\bin\Debug\CLIKS.pdb
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.csprojAssemblyReference.cache
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.Form1.resources
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.Properties.Resources.resources
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.GenerateResource.cache
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.CoreCompileInputs.cache
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.exe
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.pdb
+C:\Users\1111\Desktop\CLIKS\CLIKS\obj\Debug\CLIKS.Form2.resources
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\bin\Debug\CLIKS.exe.config
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\bin\Debug\CLIKS.exe
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\bin\Debug\CLIKS.pdb
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.AssemblyReference.cache
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.exe.config
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.Form1.resources
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.Form2.resources
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.Properties.Resources.resources
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.GenerateResource.cache
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.csproj.CoreCompileInputs.cache
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.exe
+D:\Users\Владимир\Рабочий стол\CLIKS\CLIKS\obj\Debug\CLIKS.pdb
