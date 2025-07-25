@@ -6,8 +6,8 @@
 [![Windows Support](https://img.shields.io/badge/Windows-7+-0078D6?logo=windows)](https://support.microsoft.com/ru-ru/windows)
 [![C# Version](https://img.shields.io/badge/C%23-8.0-%23239120?logo=c-sharp)](https://dotnet.microsoft.com/ru-ru/languages/csharp)
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-%23512BD4?logo=.net)](https://dotnet.microsoft.com/ru-ru/download/dotnet-framework)
-[![Release Version](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/your-username/CLIKS/releases)
-[![Downloads](https://img.shields.io/github/downloads/your-username/CLIKS/total?color=success)](https://github.com/your-username/CLIKS/releases)
+[![Release Version](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/wulkan-Git/CLIKS/releases)
+[![Downloads](https://img.shields.io/github/downloads/wulkan-Git/CLIKS/total?color=success)](https://github.com/wulkan-Git/CLIKS/releases)
 
 Программа для автоматизации кликов мышью с поддержкой координат, интервалов и повторов.
 
@@ -20,9 +20,9 @@
 - 🛡️ Работает на Windows 7-11
 
 ## 📦 Скачать
-Последнюю версию можно скачать в [разделе релизов](https://github.com/your-username/CLIKS/releases).
+Последнюю версию можно скачать в [разделе релизов](https://github.com/wulkan-Git/CLIKS/releases).
 
-[![Download Button](assets/download-button.png)](https://github.com/your-username/CLIKS/releases/latest)
+[![Download Button](assets/download-button.png)](https://github.com/wulkan-Git/CLIKS/releases/latest)
 
 ## 🖥️ Скриншот интерфейса
 ![Интерфейс CLIKS](assets/interface-screenshot.png)
